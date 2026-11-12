@@ -107,3 +107,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Assets/ObjectiveEnvironment_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif
+Assets/ObjectiveEnvironment_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png
+/Assets/ObjectiveEnvironment_Assets
